@@ -1,5 +1,11 @@
+<div style="width: 100%;">
+  <a href="https://github.com/henahax/henahax/blame/main/profile.svg">
+    <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
+
 <!--
-**Henahax/Henahax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**henahax/henahax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there 👋
