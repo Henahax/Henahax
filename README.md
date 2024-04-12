@@ -1,7 +1,5 @@
 <div style="width: 100%;">
-  <a href="https://github.com/henahax/henahax/blame/main/profile.svg">
     <img src="profile.svg" style="width: 100%;">
-  </a>
 </div>
 
 <!--
