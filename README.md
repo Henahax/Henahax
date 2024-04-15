@@ -2,17 +2,15 @@
     <img src="profile.svg" style="width: 100%;">
 </div>
 
-<!--
-**henahax/henahax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 about me
 
-Here are some ideas to get you started:
+- 👨🏻 Tobias
+- 🕸️ @henahax
+- 🏢 Software engineer
+- 🏫 BA computer science
+- 📍 Munich 🥨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 projects & goals
+
+- web application for personal use and friends
+- try & learn web technologies
