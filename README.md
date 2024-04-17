@@ -4,11 +4,12 @@
 
 ## 👨🏻‍💻 about me
 
-- 👨🏻 Tobias
-- 🕸️ @henahax
-- 🏢 Software engineer
-- 🏫 BA computer science
-- 📍 Munich 🥨
+- 🏷️ Name: Tobias
+- 🕸️ Socials: @henahax
+- 🏢 Occupation: Software engineer
+- 🏫 Education: BS computer science
+- 📍 Location: 🥨 Munich 🇩🇪
+- 💭 Interests: Homelab, cuisine, gaming
 
 ## 🎯 projects & goals
 
