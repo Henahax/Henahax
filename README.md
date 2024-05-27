@@ -2,7 +2,7 @@
     <img src="profile.svg" style="width: 100%;">
 </div>
 
-<h3 align="left">👨🏻‍💻 about me</h3>
+## 👨🏻‍💻 about me
 
 - 🏷️ Name: Tobias
 - 🕸️ Socials: @henahax
@@ -11,12 +11,12 @@
 - 📍 Location: 🥨 Munich 🇩🇪
 - 💭 Interests: Homelab, cuisine, gaming
 
-<h3 align="left">🎯 projects & goals</h3>
+## 🎯 projects & goals
 
 - web application for personal use and friends
 - try & learn web technologies
 
-<h3 align="left">🔧 languages & tools</h3>
+## 🔧 languages & tools
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henahax&show_icons=true&locale=en&layout=compact" alt="henahax" />
 
