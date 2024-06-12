@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-    <img src="profile.svg" style="width: 100%;">
+    <img src="profile.svg" style="width: 100%; border-radius: 1rem;">
 </div>
 
 ## 👨🏻‍💻 about me
