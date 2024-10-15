@@ -27,3 +27,7 @@
 ### projects
 
 [![Projects](https://skillicons.dev/icons?i=svelte,astro,tailwind,nodejs,ts,js,html,css)](https://github.com/henahax/)
+
+### experimental stack
+
+[![Experimental](https://skillicons.dev/icons?i=docker,deno,svelte,tailwind,ts)](https://github.com/henahax/)
