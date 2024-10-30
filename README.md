@@ -32,8 +32,8 @@
 
 #### dynamic
 
-[![Experimental](https://skillicons.dev/icons?i=docker,nodejs,svelte,tailwind,ts)](https://github.com/henahax/)
+[![Experimental](https://skillicons.dev/icons?i=github.vscode,docker,linux,mongodb,nodejs,npm,svelte,tailwind,ts)](https://github.com/henahax/)
 
 #### static
 
-[![Experimental](https://skillicons.dev/icons?i=docker,nodejs,astro,svelte,tailwind,ts)](https://github.com/henahax/)
+[![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux.nodejs,npm,astro,svelte,tailwind,ts,md)](https://github.com/henahax/)
