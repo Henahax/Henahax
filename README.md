@@ -28,12 +28,12 @@
 
 [![Projects](https://skillicons.dev/icons?i=svelte,astro,tailwind,nodejs,ts,js,html,css)](https://github.com/henahax/)
 
-### experimental stacks
+### personal tech stacks
 
-#### dynamic
+#### dynamic pages
 
 [![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,mongodb,nodejs,npm,svelte,tailwind,ts)](https://github.com/henahax/)
 
-#### static
+#### static pages
 
 [![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,nodejs,npm,astro,svelte,tailwind,ts,md)](https://github.com/henahax/)
