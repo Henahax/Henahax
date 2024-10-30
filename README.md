@@ -30,6 +30,6 @@
 
 [![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,nodejs,npm,astro,svelte,tailwind,ts,html,css,md)](https://github.com/henahax/)
 
-### server
+### server/homelab
 
 [![Server](https://skillicons.dev/icons?i=linux,docker,cloudflare)](https://github.com/henahax/)
