@@ -32,7 +32,7 @@
 
 #### dynamic
 
-[![Experimental](https://skillicons.dev/icons?i=github.vscode,docker,linux,mongodb,nodejs,npm,svelte,tailwind,ts)](https://github.com/henahax/)
+[![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,mongodb,nodejs,npm,svelte,tailwind,ts)](https://github.com/henahax/)
 
 #### static
 
