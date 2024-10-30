@@ -36,4 +36,4 @@
 
 #### static
 
-[![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux.nodejs,npm,astro,svelte,tailwind,ts,md)](https://github.com/henahax/)
+[![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,nodejs,npm,astro,svelte,tailwind,ts,md)](https://github.com/henahax/)
