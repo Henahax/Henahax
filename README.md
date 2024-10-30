@@ -18,7 +18,7 @@
 
 ## 🔧 languages & tools
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=henahax&show_icons=true&locale=en&layout=compact" alt="henahax" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=henahax&show_icons=true&locale=en&layout=compact&exclude_repo=hsro-inf-prg3.github.io,controller,bachelorarbeit" alt="henahax" />
 
 ### personal project tech stacks
 
