@@ -28,6 +28,12 @@
 
 [![Projects](https://skillicons.dev/icons?i=svelte,astro,tailwind,nodejs,ts,js,html,css)](https://github.com/henahax/)
 
-### experimental stack
+### experimental stacks
 
-[![Experimental](https://skillicons.dev/icons?i=docker,deno,svelte,tailwind,ts)](https://github.com/henahax/)
+#### dynamic
+
+[![Experimental](https://skillicons.dev/icons?i=docker,nodejs,svelte,tailwind,ts)](https://github.com/henahax/)
+
+#### static
+
+[![Experimental](https://skillicons.dev/icons?i=docker,nodejs,astro,svelte,tailwind,ts)](https://github.com/henahax/)
