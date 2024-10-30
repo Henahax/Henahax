@@ -15,6 +15,7 @@
 
 - web application for personal use and friends
 - try & learn web technologies
+- operate personal server environment
 
 ## 🔧 languages & tools
 
