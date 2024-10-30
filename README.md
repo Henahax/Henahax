@@ -32,4 +32,4 @@
 
 ### server/homelab
 
-[![Server](https://skillicons.dev/icons?i=linux,docker,cloudflare)](https://github.com/henahax/)
+[![Server](https://skillicons.dev/icons?i=linux,docker,cloudflare,github)](https://github.com/henahax/)
