@@ -20,20 +20,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henahax&show_icons=true&locale=en&layout=compact" alt="henahax" />
 
-### server
-
-[![Server](https://skillicons.dev/icons?i=linux,docker,cloudflare)](https://github.com/henahax/)
-
-### projects
-
-[![Projects](https://skillicons.dev/icons?i=svelte,astro,tailwind,nodejs,ts,js,html,css)](https://github.com/henahax/)
-
-### personal tech stacks
+### personal project tech stacks
 
 #### dynamic pages
 
-[![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,mongodb,nodejs,npm,svelte,tailwind,ts)](https://github.com/henahax/)
+[![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,mongodb,nodejs,npm,svelte,tailwind,ts,html,css)](https://github.com/henahax/)
 
 #### static pages
 
-[![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,nodejs,npm,astro,svelte,tailwind,ts,md)](https://github.com/henahax/)
+[![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,nodejs,npm,astro,svelte,tailwind,ts,html,css,md)](https://github.com/henahax/)
+
+### server
+
+[![Server](https://skillicons.dev/icons?i=linux,docker,cloudflare)](https://github.com/henahax/)
