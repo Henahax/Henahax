@@ -25,11 +25,11 @@
 
 - dynamic pages
 
-[![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,postgres,deno,svelte,ts,html,css,tailwind)](https://github.com/henahax/)
+[![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,postgres,nodejs,svelte,ts,html,css,tailwind)](https://github.com/henahax/)
 
 - static pages
 
-[![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,md,deno,astro,ts,html,css,tailwind)](https://github.com/henahax/)
+[![Experimental](https://skillicons.dev/icons?i=github,vscode,docker,linux,md,nodejs,astro,ts,html,css,tailwind)](https://github.com/henahax/)
 
 ### server/homelab
 
